@@ -1,3 +1,4 @@
+import { BodyInit } from "node-fetch";
 /**
  * The supported return types for the `fetch` method
  */
